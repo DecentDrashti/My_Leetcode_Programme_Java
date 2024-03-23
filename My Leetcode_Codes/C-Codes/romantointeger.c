@@ -1,3 +1,4 @@
+#include<stdio.h>
 int romanToInt(char* s) {
     int result = 0;
     int length = strlen(s);
